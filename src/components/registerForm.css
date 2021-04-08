@@ -1,0 +1,15 @@
+.register-form {
+    margin-top: 1em;
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+}
+
+
+.register-form__button {
+    background-color: #00ff00;
+    border: none;
+    padding: 0.5em 0;
+    color: #fff;
+    font-size: 1.2em;
+}
